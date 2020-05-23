@@ -83,6 +83,9 @@ func main() {
 	<head><title>BME280 Exporter</title></head>
 	<body>
 	<h1>BME280 Exporter</h1>
+	<p>
+	  <a href="/metrics">Metrics</a>
+	</p>
 	</body>
 	</html>
 	`))
